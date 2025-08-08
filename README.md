@@ -28,4 +28,4 @@ Installed Docker on the EC2 instance
 
 
 ### Cleanup: Terminated EC2 instance
-![alt text](image-8.png)# DevOps-GitHub-Actions
+![alt text](image-8.png)
